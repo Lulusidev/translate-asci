@@ -4,6 +4,4 @@
 <br>
 <p>Yes this is so FUCK.<p>
 <p>the table asci<p>
-<img src = "https://techbriefers.com/wp-content/uploads/2019/07/ascii-code-table.jpg" width = "500px">
-
-<p size="10px" text-align="right">by Lulusi dev<p>
+<img src = "https://techbriefers.com/wp-content/uploads/2019/07/ascii-code-table.jpg" width = "1000px">
